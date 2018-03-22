@@ -67,3 +67,50 @@ nav ul li a {
 .text-center {
     text-align: center;
 }
+
+.foods {
+    color: darkcyan;
+    text-decoration: none;
+    width: 100%;
+
+}
+
+.foods:hover {
+    color: lime;
+}
+
+li {
+    margin: 30px;
+    list-style-type: none;
+}
+
+.dish-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.dish-div img {
+    width: 40%;
+}
+
+.dish-div a {
+    color: darkcyan;
+}
+
+
+.splash {
+    padding-bottom: 100px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+input, textarea {
+    width:70%;
+    margin: 1%;
+    padding: 1%;
+}

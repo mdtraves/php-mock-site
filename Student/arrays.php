@@ -48,25 +48,32 @@
             'title' => 'Club Sandwich',
             'price' => 4,
             'blurb' => 'This is just a motherfucking sandwich dear!',
-            'drink' => 'Pepsi'
+            'drink' => 'Pepsi',
+            'img' => 'banner.png'
         ),
         'dill-salmon' => array (
             'title' => 'Lemon &amp Dill Salmon',
             'price' => 8,
             'blurb' => 'This is just a motherfucking fish!',
-            'drink' => 'Wine'
+            'drink' => 'Wine',
+            'img' => 'banner.png'
+
         ),
         'super-salad' => array (
             'title' => 'The Super Salad<sup>&reg</sup>',
             'price' => 7,
             'blurb' => 'This is just a salad bitch!',
-            'drink' => 'Water'
+            'drink' => 'Water',
+            'img' => 'banner.png'
+
         ),
         'mexican-shit' => array (
             'title' => 'Like jalepinos n stuff',
             'price' => 12,
             'blurb' => 'This is ????!',
-            'drink' => 'Desperado'
+            'drink' => 'Desperado',
+            'img' => 'banner.png'
+
         ),
     );
 

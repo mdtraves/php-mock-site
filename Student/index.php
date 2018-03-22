@@ -6,11 +6,13 @@ include('wtf.php');
 
 <div class="philosophy">
     <hr>
-        <h1>Mikes Site</h1>
-        <p>Some food is here probably!</p>
+    <div class="splash">
+        <h1 class="text-center">Franklin's Fine Dining</h1>
+        <p class="text-center">Some food is here probably!</p>
+    </div>
     <hr>
 </div>
 
 <?php
-
+include ('footer.php');
 ?>
